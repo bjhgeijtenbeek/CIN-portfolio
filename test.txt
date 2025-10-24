@@ -1,4 +1,8 @@
 just a test
 trying to show "2.3 show staged vs unstaged changes". making eddit to show unstaged.
 trying to show 1.5 show branches and tree
+<<<<<<< HEAD
 nog meer test text
+=======
+meer test text
+>>>>>>> 58aff0750ada86b2e920bda967a49085a1fd3eb8
