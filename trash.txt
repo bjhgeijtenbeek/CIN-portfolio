@@ -1,2 +1,3 @@
 lorum ipsum
 versie 1
+text om 2.6 merge conflict te maken
