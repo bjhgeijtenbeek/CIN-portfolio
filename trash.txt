@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 lorum ipsum
 versie 1
+=======
+lorem ipsum
+versie 2
+>>>>>>> branch
